@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hero">
+        <nav>
+            
+            <img class="logo" src="./img/logo.portfolio.png">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="service.html">Service</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <a href="resume.html" class="btn">Resume</a>
+        </nav>
+        <div class="content">
+            <span>Front-End Web Developer</span>
+            <h1>Hello, I'm <span>Harshit</span></h1>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus reiciendis repudiandae nemo, in ratione nobis? Accusantium minus cupiditate optio impedit error commodi, unde cumque tempore ipsa architecto, atque doloremque quidem?</p>
+            <a class="btn" href="downloadcv.html">Download CV</a>
+        </div>
+        <img class="dp" src="./img/Harshit.png.jpeg">
+    </div>
+</body>
+</html>
